@@ -6,6 +6,9 @@ body {
 .navbar-inverse .brand {
   color: white;
 }
+.brand {
+  font-family: andalus, "微軟正黑體", "Microsoft JhengHei";
+}
 .content {
   padding-top: 40px; /* 60px to make the container go all the way to the bottom of the topbar */
   padding-bottom: 40px;
