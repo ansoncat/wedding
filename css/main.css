@@ -17,16 +17,17 @@ section {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+#home p{
+  text-align: center;
+}
 .large-text {
   font-size: 23px;
   padding-top: 20px;
   padding-bottom: 10px;
-  text-align: center;
 }
 .small-text {
   font-weight: bold;
   font-size: 16px;
-  text-align: center;
 }
 iframe {
   -moz-border-radius: 12px;
